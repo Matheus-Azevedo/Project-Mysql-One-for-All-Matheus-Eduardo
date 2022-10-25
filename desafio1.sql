@@ -1,3 +1,4 @@
+-- Começando o desafio 1
 DROP DATABASE IF EXISTS SpotifyClone;
 
   CREATE DATABASE IF NOT EXISTS SpotifyClone;
